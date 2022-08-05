@@ -19,6 +19,7 @@
 
     * eg. Folder structure should look like `python/lib/python3.7/site-packages/` for layer. But to zip the content make folder like this `layer-temp/python/lib/python3.7/site-packages/`
     * `mkdir -p layer-temp/python/lib/python3.7/site-packages/`
+    * It's not compulsory to create this folder structure explicitly. In Below command `target` option can create folder structure.
 
 7. Install required modules.
 
