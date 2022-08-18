@@ -7,7 +7,7 @@
 
 4. Update below environment variables
     * HADOOP_HOME : `C:\Users\Mukesh\spark-3.3.0-bin-hadoop3\bin`
-    * PATH : `C:\Users\Mukesh\spark-3.3.0-bin-hadoop3\bin`
+    * Path : `C:\Users\Mukesh\spark-3.3.0-bin-hadoop3\bin`
     * PYSPARK_PYTHON : `python`
 
 5. Type below command in cmd to check if configured correctly.
